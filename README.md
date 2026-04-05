@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="src/img/megabrain_banner.png" alt="MegaBrain Banner" width="80%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-Plugin-blueviolet?style=for-the-badge&logo=anthropic" alt="Claude Code Plugin">
   <img src="https://img.shields.io/badge/Agents-170+-orange?style=for-the-badge" alt="170+ Agents">
   <img src="https://img.shields.io/badge/Patterns-5-green?style=for-the-badge" alt="5 Patterns">
