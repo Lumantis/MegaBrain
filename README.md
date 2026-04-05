@@ -21,6 +21,11 @@
   from a single natural language prompt.
 </p>
 
+<p align="center">
+  Just TRY IT<br>
+  by yourself.
+</p>
+
 ---
 
 ## What is this?
