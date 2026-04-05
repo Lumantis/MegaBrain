@@ -150,5 +150,5 @@ MIT - Use freely, modify, share.
 ---
 
 <p align="center">
-  <sub>Built with Claude Opus 4.6 | April 2026</sub>
+  <sub>April 2026</sub>
 </p>
