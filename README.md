@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/img/megabrain_banner.png" alt="MegaBrain Banner" width="95%" />
+  <img src="src/img/megabrain_banner.png" alt="MegaBrain Banner" width="93%" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" alt="Version 1.0.0">
 </p>
 
-<h1 align="center">MegaBrain</h1>
+<h1 align="center">🔥🧠 MegaBrain 🧠🔥</h1>
 
 <p align="center">
   <strong>One prompt. Full orchestration. Zero intervention.</strong>
