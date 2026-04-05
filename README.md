@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/img/megabrain_banner.png" alt="MegaBrain Banner" width="100%" />
+  <img src="src/img/megabrain_banner.png" alt="MegaBrain Banner" width="90%" />
 </p>
 
 <p align="center">
