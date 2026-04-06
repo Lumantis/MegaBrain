@@ -1,0 +1,19 @@
+{
+  "name": "megabrain",
+  "description": "One prompt, full orchestration, zero intervention. 170+ specialized agents and 5 orchestration patterns for autonomous multi-agent pipelines.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lumantis"
+  },
+  "homepage": "https://github.com/Lumantis/MegaBrain",
+  "repository": "https://github.com/Lumantis/MegaBrain",
+  "license": "MIT",
+  "keywords": [
+    "orchestration",
+    "agents",
+    "autonomous",
+    "multi-agent",
+    "pipeline",
+    "megabrain"
+  ]
+}
