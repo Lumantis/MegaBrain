@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  Just TRY IT by yourself.<br>
+  Just. TRY. IT.<br>
 </p>
 
 ---
